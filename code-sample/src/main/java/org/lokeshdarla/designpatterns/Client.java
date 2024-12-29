@@ -1,4 +1,4 @@
-package org.lokeshdarla.designpatterns.singleton;
+package org.lokeshdarla.designpatterns;
 
 import org.lokeshdarla.designpatterns.singleton.doubleCheckLocking.DatabaseConnection;
 
