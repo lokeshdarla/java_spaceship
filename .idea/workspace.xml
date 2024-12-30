@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc0c6eac-9ece-4b5f-89fa-253cfeadfeb9" name="Changes" comment="singleton design pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-sample/src/main/java/org/lokeshdarla/designpatterns/singleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-sample/src/main/java/org/lokeshdarla/designpatterns/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -34,6 +36,10 @@
     &quot;url&quot;: &quot;https://github.com/lokeshdarla/java_lu.git&quot;,
     &quot;accountId&quot;: &quot;925a437a-f243-438d-bbf5-510c0e8fe2cb&quot;
   }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
 }</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -90,7 +96,8 @@
       <workItem from="1734232086010" duration="3256000" />
       <workItem from="1734692123884" duration="243000" />
       <workItem from="1734692519451" duration="1135000" />
-      <workItem from="1735459026934" duration="4188000" />
+      <workItem from="1735459026934" duration="5096000" />
+      <workItem from="1735553625875" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="singleton design pattern">
       <option name="closed" value="true" />
