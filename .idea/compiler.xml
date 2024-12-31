@@ -9,9 +9,5 @@
         <module name="code-sample" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="advanced_topics" target="22" />
-      <module name="singletonpatternimplementation" target="22" />
-    </bytecodeTargetLevel>
   </component>
 </project>
