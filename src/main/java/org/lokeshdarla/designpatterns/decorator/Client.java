@@ -14,9 +14,7 @@ public class Client {
                                 new VanillaScoop(
                                         new VanillaScoop(
                                                 new ChocoChips(
-                                                        new ChocoSyrup(
-                                                                new VanillaCone()
-                                                        )
+                                                        new ChocoSyrup()
                                                 )
                                         )
                                 )

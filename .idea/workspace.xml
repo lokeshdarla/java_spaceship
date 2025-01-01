@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a120b1c6-b887-4c94-aaeb-1b8a72119d72" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/IceCreamDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoChips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoChips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoSyrup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoSyrup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/VanillaScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/VanillaScoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735657186148</updated>
       <workItem from="1735657187737" duration="734000" />
-      <workItem from="1735752556395" duration="2160000" />
+      <workItem from="1735752556395" duration="2873000" />
     </task>
     <servers />
   </component>

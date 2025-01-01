@@ -1,20 +1,31 @@
 package org.lokeshdarla.designpatterns.decorator.addons;
 
 import org.lokeshdarla.designpatterns.decorator.IceCream;
-import org.lokeshdarla.designpatterns.decorator.IceCreamDecorator;
 
-public class VanillaScoop extends IceCreamDecorator {
+public class VanillaScoop implements IceCream {
+    private IceCream iceCream;
+
+    public VanillaScoop() {
+        this.iceCream = null;
+    }
+
     public VanillaScoop(IceCream iceCream) {
-        super(iceCream);
+        this.iceCream = iceCream;
     }
 
     @Override
     public double getCost() {
-        return super.getCost() + 0.75;
+        if (iceCream != null) {
+            return iceCream.getCost() + 0.75;
+        }
+       return 0.75;
     }
 
     @Override
     public String getDescription() {
-        return super.getDescription() + ", Vanilla Scoop";
+        if(iceCream != null) {
+            return "Vanilla Scoop, "+iceCream.getDescription();
+        }
+        return  "Vanilla Scoop";
     }
 }
