@@ -35,6 +35,10 @@
     &quot;accountId&quot;: &quot;925a437a-f243-438d-bbf5-510c0e8fe2cb&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -61,13 +65,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.lokeshdarla.designpatterns.strategy.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lokeshdarla.designpatterns.flyweight.Client" />
       <module name="code-sample" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.lokeshdarla.designpatterns.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.lokeshdarla.designpatterns.strategy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lokeshdarla.designpatterns.strategy.Client" />
+      <module name="code-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lokeshdarla.designpatterns.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.lokeshdarla.designpatterns.strategy.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
@@ -112,7 +130,7 @@
       <updated>1735657186148</updated>
       <workItem from="1735657187737" duration="734000" />
       <workItem from="1735752556395" duration="5082000" />
-      <workItem from="1735816249746" duration="475000" />
+      <workItem from="1735816249746" duration="1448000" />
     </task>
     <servers />
   </component>
