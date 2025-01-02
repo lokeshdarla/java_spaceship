@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a120b1c6-b887-4c94-aaeb-1b8a72119d72" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/IceCreamDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoChips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoChips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoSyrup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/ChocoSyrup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/VanillaScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lokeshdarla/designpatterns/decorator/addons/VanillaScoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +62,19 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lokeshdarla.designpatterns.flyweight.Client" />
+      <module name="code-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lokeshdarla.designpatterns.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="java_lu" />
       <method v="2">
@@ -80,6 +88,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -98,7 +111,8 @@
       <option name="presentableId" value="Default" />
       <updated>1735657186148</updated>
       <workItem from="1735657187737" duration="734000" />
-      <workItem from="1735752556395" duration="2873000" />
+      <workItem from="1735752556395" duration="5082000" />
+      <workItem from="1735816249746" duration="475000" />
     </task>
     <servers />
   </component>
