@@ -52,24 +52,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Client.executor": "Run",
-    "Application.org.lokeshdarla.designpatterns.observer.Client.executor": "Run",
-    "Application.org.lokeshdarla.designpatterns.strategy.Client.executor": "Run",
-    "Application.org.lokeshdarla.machinecoding.pen.Client.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.lokeshdarla.designpatterns.observer.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.lokeshdarla.designpatterns.strategy.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.lokeshdarla.machinecoding.pen.Client.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.lokeshdarla.machinecoding.tictactoe.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lokeshdarla.designpatterns.flyweight.Client" />
       <module name="code-sample" />
@@ -124,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.lokeshdarla.designpatterns.observer.Client" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.org.lokeshdarla.designpatterns.observer.Client" />
         <item itemvalue="Application.org.lokeshdarla.designpatterns.strategy.Client" />
       </list>
     </recent_temporary>
@@ -149,22 +154,13 @@
       <workItem from="1735657187737" duration="734000" />
       <workItem from="1735752556395" duration="5082000" />
       <workItem from="1735816249746" duration="4283000" />
-      <workItem from="1735973644928" duration="355000" />
+      <workItem from="1735973644928" duration="1110000" />
+      <workItem from="1736073075661" duration="1770000" />
+      <workItem from="1736181259341" duration="5603000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/lokeshdarla/machinecoding/pen/GelPen.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
