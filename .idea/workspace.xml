@@ -40,6 +40,9 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -156,7 +159,8 @@
       <workItem from="1735816249746" duration="4283000" />
       <workItem from="1735973644928" duration="1110000" />
       <workItem from="1736073075661" duration="1770000" />
-      <workItem from="1736181259341" duration="5603000" />
+      <workItem from="1736181259341" duration="6641000" />
+      <workItem from="1736488478925" duration="27000" />
     </task>
     <servers />
   </component>
