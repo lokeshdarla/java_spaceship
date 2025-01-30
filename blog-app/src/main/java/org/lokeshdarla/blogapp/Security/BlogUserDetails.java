@@ -50,4 +50,8 @@ public class BlogUserDetails implements UserDetails {
     public boolean isEnabled() {
         return UserDetails.super.isEnabled();
     }
+
+    public Object getId() {
+        return user.getId();
+    }
 }
